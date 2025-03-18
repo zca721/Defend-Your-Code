@@ -1,0 +1,19 @@
+Valid User Input:------------------------------------------------------------------------ 
+First Name: Zachary
+Last Name: Anderson
+First Integer: 1
+Second Integer: 1
+Added Integer: 2
+Multiplied Integer: 1
+Input File Name: pythonInput.txt
+Input File Contents: this is the input text from pythonInput.txt file
+Valid User Input:------------------------------------------------------------------------ 
+First Name: Zachary
+Last Name: Anderson
+First Integer: 1
+Second Integer: 1
+Added Integer: 2
+Multiplied Integer: 1
+Input File Name: pythonInput.txt
+Input File Contents: this is the input text from pythonInput.txt file
+----------------------------------------------------------------------------------------- 
